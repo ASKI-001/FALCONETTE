@@ -80,6 +80,6 @@ Two nRF24L01 modules are use for both HSPI and VSPI
 wewefwef
 
  ## UPLOADING CODE TO ESP32
-- we upload the code using the `WEBFLASHER` tool developed by [Smoochee](https://github.com/smoochiee/). He/She is the real owner of this project. 
+- we upload the code using the `WEBFLASHER` tool developed by [Smoochee](https://github.com/smoochiee/). He/She or They are the real owners of this project. 
 
    - [WEBFLASHER](https://smoochiee.github.io/Bluetooth-jammer-esp32/flash1)
