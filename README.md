@@ -1,4 +1,4 @@
-
+![Devide](https://raw.githubusercontent.com/ASKI-001/FALCONETTE/refs/heads/main/Images/device3.JPG)
 ## FALCONETTE
 FALCONETTE is an free and open-source project. It disrupts various devices using an ESP32 and nRF24 modules, causing plenty of noise and sending unnecessary packets (DoS).
 
@@ -73,11 +73,10 @@ Two nRF24L01 modules are use for both HSPI and VSPI
 
 ## WIRING DIAGRAM
 
+![Wiring](https://raw.githubusercontent.com/ASKI-001/FALCONETTE/refs/heads/main/Images/Pin.jpg)
 
 ### NRF24L01 PINS
-
-### BOTH PINS
-wewefwef
+![Pins](https://howtomechatronics.com/wp-content/uploads/2017/02/NRF24L01-Pinout-NRF24L01-PA-LNA-.png)
 
  ## UPLOADING CODE TO ESP32
 - we upload the code using the `WEBFLASHER` tool developed by [Smoochee](https://github.com/smoochiee/). He/She or They are the real owners of this project. 
